@@ -1,4 +1,4 @@
-# Distributed-Voting-Beep
+# Distributed Voting in Beep Model
 The code for Distributed Voting with Beeps (DVB) algorithms
 
 Codes for the paper:
