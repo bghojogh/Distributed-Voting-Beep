@@ -1,0 +1,1483 @@
+================== run 1 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0642
+
+probability of winning value1:
+    0.4822
+
+probability of winning value2:
+    0.4536
+
+The rate for this run was:
+   48.2178
+
+================== run 2 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0630
+
+probability of winning value1:
+    0.5396
+
+probability of winning value2:
+    0.3973
+
+The rate for this run was:
+   53.9645
+
+================== run 3 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0604
+
+probability of winning value1:
+    0.5972
+
+probability of winning value2:
+    0.3424
+
+The rate for this run was:
+   59.7183
+
+================== run 4 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0563
+
+probability of winning value1:
+    0.6542
+
+probability of winning value2:
+    0.2895
+
+The rate for this run was:
+   65.4194
+
+================== run 5 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0510
+
+probability of winning value1:
+    0.7100
+
+probability of winning value2:
+    0.2390
+
+The rate for this run was:
+   71.0026
+
+================== run 6 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0446
+
+probability of winning value1:
+    0.7640
+
+probability of winning value2:
+    0.1915
+
+The rate for this run was:
+   76.3955
+
+================== run 7 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0373
+
+probability of winning value1:
+    0.8152
+
+probability of winning value2:
+    0.1476
+
+The rate for this run was:
+   81.5165
+
+================== run 8 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0294
+
+probability of winning value1:
+    0.8627
+
+probability of winning value2:
+    0.1078
+
+The rate for this run was:
+   86.2719
+
+================== run 9 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0215
+
+probability of winning value1:
+    0.9055
+
+probability of winning value2:
+    0.0730
+
+The rate for this run was:
+   90.5535
+
+================== run 10 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0138
+
+probability of winning value1:
+    0.9423
+
+probability of winning value2:
+    0.0438
+
+The rate for this run was:
+   94.2341
+
+================== run 11 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0072
+
+probability of winning value1:
+    0.9716
+
+probability of winning value2:
+    0.0212
+
+The rate for this run was:
+   97.1626
+
+================== run 12 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+    0.0022
+
+probability of winning value1:
+    0.9916
+
+probability of winning value2:
+    0.0062
+
+The rate for this run was:
+   99.1579
+
+================== run 13 out of 13 runs
+In Markov: Value 0 out of 100 values
+In Markov: Value 1 out of 100 values
+In Markov: Value 2 out of 100 values
+In Markov: Value 3 out of 100 values
+In Markov: Value 4 out of 100 values
+In Markov: Value 5 out of 100 values
+In Markov: Value 6 out of 100 values
+In Markov: Value 7 out of 100 values
+In Markov: Value 8 out of 100 values
+In Markov: Value 9 out of 100 values
+In Markov: Value 10 out of 100 values
+In Markov: Value 11 out of 100 values
+In Markov: Value 12 out of 100 values
+In Markov: Value 13 out of 100 values
+In Markov: Value 14 out of 100 values
+In Markov: Value 15 out of 100 values
+In Markov: Value 16 out of 100 values
+In Markov: Value 17 out of 100 values
+In Markov: Value 18 out of 100 values
+In Markov: Value 19 out of 100 values
+In Markov: Value 20 out of 100 values
+In Markov: Value 21 out of 100 values
+In Markov: Value 22 out of 100 values
+In Markov: Value 23 out of 100 values
+In Markov: Value 24 out of 100 values
+In Markov: Value 25 out of 100 values
+In Markov: Value 26 out of 100 values
+In Markov: Value 27 out of 100 values
+In Markov: Value 28 out of 100 values
+In Markov: Value 29 out of 100 values
+In Markov: Value 30 out of 100 values
+In Markov: Value 31 out of 100 values
+In Markov: Value 32 out of 100 values
+In Markov: Value 33 out of 100 values
+In Markov: Value 34 out of 100 values
+In Markov: Value 35 out of 100 values
+In Markov: Value 36 out of 100 values
+In Markov: Value 37 out of 100 values
+In Markov: Value 38 out of 100 values
+In Markov: Value 39 out of 100 values
+In Markov: Value 40 out of 100 values
+In Markov: Value 41 out of 100 values
+In Markov: Value 42 out of 100 values
+In Markov: Value 43 out of 100 values
+In Markov: Value 44 out of 100 values
+In Markov: Value 45 out of 100 values
+In Markov: Value 46 out of 100 values
+In Markov: Value 47 out of 100 values
+In Markov: Value 48 out of 100 values
+In Markov: Value 49 out of 100 values
+In Markov: Value 50 out of 100 values
+In Markov: Value 51 out of 100 values
+In Markov: Value 52 out of 100 values
+In Markov: Value 53 out of 100 values
+In Markov: Value 54 out of 100 values
+In Markov: Value 55 out of 100 values
+In Markov: Value 56 out of 100 values
+In Markov: Value 57 out of 100 values
+In Markov: Value 58 out of 100 values
+In Markov: Value 59 out of 100 values
+In Markov: Value 60 out of 100 values
+In Markov: Value 61 out of 100 values
+In Markov: Value 62 out of 100 values
+In Markov: Value 63 out of 100 values
+In Markov: Value 64 out of 100 values
+In Markov: Value 65 out of 100 values
+In Markov: Value 66 out of 100 values
+In Markov: Value 67 out of 100 values
+In Markov: Value 68 out of 100 values
+In Markov: Value 69 out of 100 values
+In Markov: Value 70 out of 100 values
+In Markov: Value 71 out of 100 values
+In Markov: Value 72 out of 100 values
+In Markov: Value 73 out of 100 values
+In Markov: Value 74 out of 100 values
+In Markov: Value 75 out of 100 values
+In Markov: Value 76 out of 100 values
+In Markov: Value 77 out of 100 values
+In Markov: Value 78 out of 100 values
+In Markov: Value 79 out of 100 values
+In Markov: Value 80 out of 100 values
+In Markov: Value 81 out of 100 values
+In Markov: Value 82 out of 100 values
+In Markov: Value 83 out of 100 values
+In Markov: Value 84 out of 100 values
+In Markov: Value 85 out of 100 values
+In Markov: Value 86 out of 100 values
+In Markov: Value 87 out of 100 values
+In Markov: Value 88 out of 100 values
+In Markov: Value 89 out of 100 values
+In Markov: Value 90 out of 100 values
+In Markov: Value 91 out of 100 values
+In Markov: Value 92 out of 100 values
+In Markov: Value 93 out of 100 values
+In Markov: Value 94 out of 100 values
+In Markov: Value 95 out of 100 values
+In Markov: Value 96 out of 100 values
+In Markov: Value 97 out of 100 values
+In Markov: Value 98 out of 100 values
+In Markov: Value 99 out of 100 values
+In Markov: Value 100 out of 100 values
+probability of draw:
+     0
+
+probability of winning value1:
+     1
+
+probability of winning value2:
+     0
+
+The rate for this run was:
+   100
+
+>> 
